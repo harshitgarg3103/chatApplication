@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="prompt_jid">Jabber Id</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_jid">This Jid is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This Field is required</string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="permission_rationale" />
+    <string name="appinfo_application_version">appinfo_application_version</string>
+    <string name="appinfo_qbsdk_version">appinfo_qbsdk_version</string>
+    <string name="appinfo_application_id">appinfo_application_id</string>
+    <string name="appinfo_authorization_key">appinfo_authorization_key</string>
+    <string name="appinfo_authorization_secret" />
+    <string name="appinfo_account_key">appinfo_account_key</string>
+    <string name="appinfo_api_domain">appinfo_api_domain</string>
+    <string name="appinfo_chat_domain">appinfo_chat_domain</string>
+    <string name="appinfo_qa_verion">appinfo_qa_verion</string>
+    <string name="hello">1.0.0</string>
+</resources>
